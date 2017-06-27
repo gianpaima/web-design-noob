@@ -1,0 +1,24 @@
+{
+  "name": "webdesignnoom",
+  "version": "1.0.0",
+  "description": "app for learning something",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gianpaima/web-design-noob.git"
+  },
+  "author": "@gianpaima",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/gianpaima/web-design-noob/issues"
+  },
+  "homepage": "https://github.com/gianpaima/web-design-noob#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
